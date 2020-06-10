@@ -1,6 +1,19 @@
 body {
-    margin: 2vh;
-    font-family: sans-serif;
+    margin: 6px;
+    width: 50%;
+    margin-left: 25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
+    justify-content: center;
+}
+
+.zero-remark {
     color: red;
+    font-weight: bolder;
+}
+
+table, th, tr, td {
+  border: 1px solid black;
+  width: 50%;
+  margin-left: 25%;
 }
